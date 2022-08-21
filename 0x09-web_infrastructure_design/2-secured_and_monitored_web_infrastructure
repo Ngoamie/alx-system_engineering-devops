@@ -1,0 +1,4 @@
+- Firewall
+- Trafic served over https to secure the communication between the client and the server, by encrypting.
+- Monitoring
+- How the monintoring is collecting the data
