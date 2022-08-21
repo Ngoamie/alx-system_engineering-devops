@@ -1,4 +1,18 @@
-- Firewall
-- Trafic served over https to secure the communication between the client and the server, by encrypting.
-- Monitoring
-- How the monintoring is collecting the data
+- Firewall : Firewalls is a network security device that monitors network traffic, it can be understood as a division or 
+“wall” between a private network and public network which limits and blocks network traffic based on a set of 
+security rules in the hardware or software by analyzing data packets that request entry to the network. Additionally, 
+firewalls are used to allow remote access to a private network through secure authentication (Beal, 1996)
+
+- HTTPS stands for HyperText Transfer Protocol Secure, and the traffic is served in order to bring protection by using the secure port 443, 
+which encrypts outgoing information. Then it is more difficult to spy or get access to the site’s information.
+
+- Monitoring is practice used for quality control. As Peter Ducker said, “What can’t be measured, it can’t be improved”. 
+Then, monitoring not only helps to make sure to maintain high quality levels, keeping the established standards and consistency, 
+but also to help in the continuous improvement of the resources performance.
+
+- The way data monitoring is performed, relies on checking new data against predefined rules and metrics. 
+If data quality anomalies are detected, an alert is sent in order to give information about the metrics and rules violation, 
+so data can be checked (Informatica, 2021).
+
+The way data monitoring is performed, relies on checking new data against predefined rules and metrics. If data quality anomalies are detected, 
+an alert is sent in order to give information about the metrics and rules violation, so data can be checked (Informatica, 2021).
